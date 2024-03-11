@@ -6,7 +6,7 @@ header_button_cta:
   title: "Get in touch"
 header_button_more:
   url: "#export-consulting"
-  title: "Export Consulting"
+  title: "Export Consultancy"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
